@@ -17,7 +17,7 @@
         "forceConsistentCasingInFileNames": true
     },
     "files": [
-      "index.d.ts",
-      "facebook-nodejs-business-sdk-tests.ts"
+        "index.d.ts",
+        "facebook-nodejs-business-sdk-tests.ts"
     ]
 }
